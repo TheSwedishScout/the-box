@@ -20,8 +20,17 @@ A teame can pay points to get
  * Internet module 3G/4G
  * Battery pack
 
-Read more
+### Read more on gps trackers
  * https://learn.adafruit.com/adafruit-ultimate-gps-on-the-raspberry-pi/setting-everything-up
  * https://area-51.blog/2012/06/18/getting-gps-to-work-on-a-raspberry-pi/
  * http://www.danmandle.com/blog/getting-gpsd-to-work-with-python/
  * http://www.instructables.com/id/Raspberry-Pi-GPS-Tracker/
+
+
+
+## DB
+
+	team	membes	code	points
+1	skog	4		ABC		2
+2	vinter	2		Cand	1
+
